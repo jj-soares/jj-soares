@@ -31,9 +31,11 @@ motorcycle parts salesman
   
  
   ## 👨🏽‍🦲 &nbsp;Social Links
-  <div> 
-  <a href="https://www.instagram.com/_rapsol/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
-  <a href = " mailto: joao.soares.9686@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
+  
+  
+  <div style="display: inline_block" > 
+  <a href="https://www.instagram.com/juao_dossantos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
+  <a href = "mailto: joao.soares.9686@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a> 
   <a href = "https://www.linkedin.com/in/joao-soares-339642215/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
     
     
