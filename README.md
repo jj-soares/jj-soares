@@ -1,4 +1,4 @@
-## <h1>Olá Eu sou o João Soares </h1>
+## <h1>Olá 🖖 Eu sou o João Soares </h1>
 
 
 - 🔥 Programming student looking for a new career
