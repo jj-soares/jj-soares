@@ -1,9 +1,16 @@
-## <h1>Olá 🖖 Eu sou o João Soares </h1>
+## <h1 align='center'> Hello, welcome! My name is João Soares!! 🎉</h1>
 
 <div align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=22&duration=4000&pause=1000&color=F7E11A&center=true&vCenter=true&width=435&lines=Hello+how+are+you%3F+My+name+is+Jo%C3%A3o%2C+;Welcome+to+my+portfolio+I'm+a;Front-end+developer%2C+and+in+the;future+I'll+become+mobile+Developer" alt="Typing SVG" /></a>
 </div>
 
+ <img src='./.github/workflows/wara.webp' width='30%' alt='img-chapeu-de-palha' align='right'/>
+
+<p align='left'>
+How good it is to have you here!
+</p>
+
+##
 ```
 Oops... I'm João Front-end developer🎃
 ----------------------------
