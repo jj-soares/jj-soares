@@ -1,16 +1,52 @@
 ## <h1>Olá 🖖 Eu sou o João Soares </h1>
 
+<div align='center'>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=22&duration=4000&pause=1000&color=F7E11A&center=true&vCenter=true&width=435&lines=Hello+how+are+you%3F+My+name+is+Jo%C3%A3o%2C+;Welcome+to+my+portfolio+I'm+a;Front-end+developer%2C+and+in+the;future+I'll+become+mobile+Developer" alt="Typing SVG" /></a>
+</div>
 
-- 🔥 Programming student looking for a new career
-- 🔭 I’m currently working on 
-motorcycle parts salesman
-- 🌱 I’m currently learning javascript
-- 💬 I'm a big user of HTML and CSS!
-- ⚡I have a range of projects already posted and some in preparation!
-
+```
+Oops... I'm João Front-end developer🎃
+----------------------------
+ 🔥  Programming student looking for a new career!
+ 
+ 💻 I am currently focused on improving my React learning!
+ 
+ ❤  I'm a big anime lover!
+ 
+ ⚔  My favorite characters are Luffy and Zoro
+ 
+ 🚴🏾‍♀️ My favorite physical activities are cycling and gym!
+ 
+ 🚀 I love technology and I'm a huge programming enthusiast!
+ 
+ ☕ I dream of helping all my family and friends!
+ 
+ 🎵 I really love listening to music !! (they make me forget my problems).
+ 
+ 🌎 I want to travel the world with my wife and meet new people.
+ 
+ 📿 I am Catholic (I respect all religions)
+  
+```
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
+
+ <div align='center'>
+  
+## 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)   ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ 
+  
+  <br><br>
+  ## 🌐Socials
+  
+  
+ 
+  <a href="https://www.instagram.com/juao_dossantos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
+  <a href = "mailto: joao.soares.9686@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a> 
+  <a href = "https://www.linkedin.com/in/joao-soares-339642215/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+  
+  ## ⚙️ &nbsp;GitHub Analytics
 
 
 <div align="left">
@@ -19,32 +55,5 @@ motorcycle parts salesman
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jj-soares&layout=compact&theme=vision-friendly-dark"/>
 </div>
  <br><br>
-  
-  ## 🛠 &nbsp;Tech Stack
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="joao-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-   <img align="center" alt="joao-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-</div>
-  <br><br>
-  
- 
-  ## 👨🏽‍🦲 &nbsp;Social Links
-  
-  
-  <div style="display: inline_block" > 
-  <a href="https://www.instagram.com/juao_dossantos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
-  <a href = "mailto: joao.soares.9686@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a> 
-  <a href = "https://www.linkedin.com/in/joao-soares-339642215/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
-    
-    
-  
-  ![Snake animation](https://github.com/jj-soares/jj-soares/blob/output/github-contribution-grid-snake.svg)
-    
   </div>
-
-  
 -->
