@@ -1,23 +1,30 @@
-## <h1 align='center'> Hello, welcome! My name is João Soares!! 🎉</h1>
+## <h1 align='center'>  <img src='./.github/workflows/wara.webp' width='10%' alt='img-chapeu-de-palha' /> Hello, welcome! My name is João Soares!! <img src='./.github/workflows/wara.webp' width='10%' alt='img-chapeu-de-palha' /> </h1> 
 
 <div align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=22&duration=4000&pause=1000&color=F7E11A&center=true&vCenter=true&width=435&lines=Hello+how+are+you%3F+My+name+is+Jo%C3%A3o%2C+;Welcome+to+my+portfolio+I'm+a;Front-end+developer%2C+and+in+the;future+I'll+become+mobile+Developer" alt="Typing SVG" /></a>
 </div>
-
- <img src='./.github/workflows/wara.webp' width='30%' alt='img-chapeu-de-palha' align='right'/>
-
+ 
+ <br>
+ <br>
 <p align='left'>
-How good it is to have you here!
+<h2>How good it is to have you here!</h2>
+<br>
+<img  src='./.github/workflows/ruffy.webp' width='20%' alt='img-luffy-correndo' align='right'/>
+I'm João Soares, I'm a <b>Full-Stack student</b>, with a strong focus on <b>Front-end</b>. <br> 
+I am an exceptional professional, always looking to improve my relationships with co-workers and personal friends!! <br>
+committed to improving and learning my hard skills every day.
 </p>
 
-##
-```
-Oops... I'm João Front-end developer🎃
+<br>
+<br>
+
+
+Oops... I'm João Front-end developer <img src='./.github/workflows/wara.webp' width='5%' alt='img-chapeu-de-palha' />
 ----------------------------
  🔥  Programming student looking for a new career!
  
  💻 I am currently focused on improving my React learning!
- 
+ <img src='./.github/workflows/computer.gif' alt='Imagem-computador' align='right' width='30%'/>
  ❤  I'm a big anime lover!
  
  ⚔  My favorite characters are Luffy and Zoro
@@ -33,10 +40,10 @@ Oops... I'm João Front-end developer🎃
  🌎 I want to travel the world with my wife and meet new people.
  
  📿 I am Catholic (I respect all religions)
-  
-```
-<br><br>
+ 
 
+
+<br><br>
 
  <div align='center'>
   
@@ -63,4 +70,12 @@ Oops... I'm João Front-end developer🎃
 </div>
  <br><br>
   </div>
--->
+ 
+ <img src='./.github/workflows/onepiece.webp' alt='Imagem-computador' align='center'/>
+ 
+ <br>
+ 
+ <div align='left'>Thank you for your presence <br>
+             
+ </div>
+             
