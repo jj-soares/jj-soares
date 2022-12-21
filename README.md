@@ -18,13 +18,14 @@ committed to improving and learning my hard skills every day.
 <br>
 <br>
 
+<div align='right'>
 
 Oops... I'm João Front-end developer <img src='./.github/workflows/wara.webp' width='5%' alt='img-chapeu-de-palha' />
 ----------------------------
  🔥  Programming student looking for a new career!
  
  💻 I am currently focused on improving my React learning!
- <img src='./.github/workflows/ruffy.gif' alt='Imagem-computador' align='right' width='30%'/>
+ <img src='./.github/workflows/ruffy.gif' alt='Imagem-computador' align='left' width='30%'/>
  
  ❤  I'm a big anime lover!
  
@@ -41,7 +42,7 @@ Oops... I'm João Front-end developer <img src='./.github/workflows/wara.webp' w
  🌎 I want to travel the world with my wife and meet new people.
  
  📿 I am Catholic (I respect all religions)
- 
+ </div>
 <hr>
 
 <br><br>
@@ -64,16 +65,25 @@ Oops... I'm João Front-end developer <img src='./.github/workflows/wara.webp' w
   ## ⚙️ &nbsp;GitHub Analytics
 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/jj-soares">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jj-soares&show_icons=true&theme=vision-friendly-dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jj-soares&layout=compact&theme=vision-friendly-dark"/>
 </div>
  <br>
   </div>
- <div align='center'>
- <img src='./.github/workflows/onepiece.webp' alt='luff-sorridente' />
+ <div >
+ <img src='./.github/workflows/onepiece.webp' alt='luff-sorridente' align='right' width='40%' />
+ <p align='left'>
+Happiness is not in crossing the finish line as a winner, <br> but in every step taken towards victory !!. 
+<br>
+<h4>Helder Cruz!! </h4>
+</p>
  </div>
+  <br>
+   <br>
+    <br>
+     <br>
  <br>
  <hr>
  <div align='left'><h3>Thank you for your presence !! </h3> <br>
