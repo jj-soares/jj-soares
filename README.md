@@ -25,6 +25,7 @@ Oops... I'm João Front-end developer <img src='./.github/workflows/wara.webp' w
  
  💻 I am currently focused on improving my React learning!
  <img src='./.github/workflows/ruffy.gif' alt='Imagem-computador' align='right' width='30%'/>
+ 
  ❤  I'm a big anime lover!
  
  ⚔  My favorite characters are Luffy and Zoro
