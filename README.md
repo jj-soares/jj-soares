@@ -65,7 +65,7 @@ Oops... I'm João Front-end developer <img src='./.github/workflows/wara.webp' w
   ## ⚙️ &nbsp;GitHub Analytics
 
 
-<div align="left">
+<div align="right">
   <a href="https://github.com/jj-soares">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jj-soares&show_icons=true&theme=vision-friendly-dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jj-soares&layout=compact&theme=vision-friendly-dark"/>
