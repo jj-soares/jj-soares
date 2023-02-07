@@ -63,13 +63,14 @@ Oops... I'm João Front-end developer <img src='./.github/workflows/wara.webp' w
   <a href = "https://www.linkedin.com/in/joao-soares-339642215/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
   
   ## ⚙️ &nbsp;GitHub Analytics
+ 
+<div align='center'>
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jj-soares&theme=highcontrast&dark_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jj-soares&theme=highcontrast&dark)](https://github.com/jj-soares/github-readme-stats)
+ 
+ </div>
 
-
-<div align="center">
-  <a href="https://github.com/jj-soares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jj-soares&show_icons=true&theme=vision-friendly-dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jj-soares&layout=compact&theme=vision-friendly-dark"/>
-</div>
  <br>
   </div>
  <div >
